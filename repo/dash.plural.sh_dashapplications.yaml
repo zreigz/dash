@@ -172,8 +172,8 @@ spec:
   group: dash.plural.sh
   names:
     kind: DashDog
-    listKind: DashdogList
-    plural: dashdogss
+    listKind: DashDogList
+    plural: dashdogs
     singular: dashdog
   scope: Namespaced
   versions:
